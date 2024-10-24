@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gavinvsb
-- 👀 I’m interested in the application of statistics and data science on manufacturing, engineering, scientific, business intelligence, and financial data
+- 👀 I’m interested in the application of statistics and data science on manufacturing, engineering, scientific, advertising, business intelligence, and financial data.
 - 🌱 I’m currently learning dbt.
-- 📚 Check out my repositories to see work I can publicly share
+- 📚 Check out my repositories to see work I can publicly share.
 - 💞️ I’m open to collaboration on data science projects. Get in touch!
